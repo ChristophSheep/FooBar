@@ -15,8 +15,11 @@ and develop ...
 
 ## Solution
 
-Better to seek in the internet for GOOD application example
-and Pattern and Pratices.
+Better to "google" for a "good" example.
+To know which example is good or not needs some experience.
+
+It is better to copy an architecture or example then to
+play around and mess up with your own solution.
 
 ### Microsoft Application Architecture Guide, 2nd Edition
 

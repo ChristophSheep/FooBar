@@ -13,6 +13,7 @@ pages:
     - 'Weed Seed'       : 'guides/guide-weed-seed.md' 
     - 'Building stone'  : 'guides/guide-building-stones.md'
     - 'By Example'      : 'guides/guide-byexample.md'
+    - 'Communication'   : 'guides/guide-communication.md'
   
   - 'About': 'about.md'
   
