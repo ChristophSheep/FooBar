@@ -1,0 +1,21 @@
+site_name: Clean Code
+
+pages:
+  - 'Home': index.md
+
+  - 'Services' : services.md
+
+  - 'Guides':
+
+    - 'N-Tier'          : 'guides/guide-n-tier.md'
+    - 'Patterns'        : 'guides/guide-patterns.md'
+    - 'Aspect MVP'      : 'guides/guide-aspect-mvp.md'
+    - 'Weed Seed'       : 'guides/guide-weed-seed.md' 
+    - 'Building stone'  : 'guides/guide-building-stones.md'
+    - 'By Example'      : 'guides/guide-byexample.md'
+  
+  - 'About': 'about.md'
+  
+  - 'Daily Notes': 'notes.md'
+
+#theme: readthedocs
