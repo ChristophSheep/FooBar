@@ -1,40 +1,65 @@
-# Hoc en perfunditur memor dixit
+# About
 
-## Mens murmure sic vos
+## Me
 
-Lorem markdownum utroque inmittitur fregit omnis ritus **iniquae umero edere**
-hamos, confugisse sit venae quis herbas. Vir arbore cetera auctor, sed de hos.
-Titulus solvere **dolet** pater visa fetum fata fecit sorbentur inane
-temperiemque cursu. Ut protinus trita positasque tenet fulgorem nam porrigit
-illis mendacis!
+foo bar biz.
 
-    file_lan_apple = snippet(ppmDawFsb, text_page_bar);
-    debugPassword += flat(device_grep(text_thin, 3, hocImage), reader);
-    solid *= petabyteArp + 5;
+## I was influced by
 
-Tandem mihi ora inter meos hinc concitus, at aquis ad deum feri versabat leones
-remitti in. Occupat umbras toro novat ubi et maluit Priamusque quoque nocuisse
-signa. Eurystheus inquit bracchia Alcyone similes citharam genetrix
-[agmen](http://non.com/habebat) pervenisse, mutati, artes sua.
+I think we are always influced by other persons.
 
-## Requievit Famemque caelitibus ipse
+I read a lot from following people who influced my professional life
+and received their messages.
 
-Et arbore nato erat [et](http://per.net/constitit-iasone.html) siqua ab iugulo,
-sceptroque natasque, factum. Fauce placabitis turbae *dissuaserat* teli adeam et
-dominatur artus, consistite pervia, manu vincula fretum feroxque.
+We are all receivers of messages from others as senders
+see https://en.wikipedia.org/wiki/Communication#Models
 
-1. Audax lacrimae ascendunt sociis
-2. Et nec iussit medios ea flexit volentem
-3. Videret et videt vitasset gurgitis
-4. Serta de premebat fecerat precibus se morsu
-5. Attonitos aras intulit pallamque in sine
-6. Pulcherrimus omnes alantqueimperat trahebat
+### Jef Raskin (User Interface)
 
-Post adfata ore; imagine freta deicit rostrum dolore **est voragine**, cum.
-Numquam novus corpore Ithaceque agris Palatinis sanguine. Superavit dentes
-litora. Bracchia nititur vel stratis habet aeacidae rupit, saxo ira Hyllus.
-Paternos illa corporeusque gratare *mihi*!
+- [The Humane Interface](https://en.wikipedia.org/wiki/The_Humane_Interface)
+- [Archy](https://en.wikipedia.org/wiki/Archy)
 
-Atque nec avus aetheriis, sonuere turris circumspicit exspirat rursus; nec!
-Iuncta ardor arboreo Haemonio regna, **re carmina**, ora. Illis altis scelerata
-ferox hac demersit indignatus si non urebant vinaque ut soror, dare orbi?
+### Donald Norman (Usability)
+
+- [Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things)
+
+### Manfred Spitzer
+
+- [Lernen - Gehirnforschung die Schule des Lebens](https://www.amazon.de/Lernen-Gehirnforschung-die-Schule-Lebens/dp/3827417236)
+
+### Alan Kay (Usability)
+
+### Gerald M. Weinberg
+
+- [Psychology of Computer Programming](http://www.geraldmweinberg.com/Site/Programming_Psychology.html)
+
+### Paul Graham (Lisp, Language)
+
+- [Lisp](http://www.paulgraham.com/lisp.html)
+
+### Niklas Wirth (Operation System, Language)
+
+- [A Plea for Lean of Software](https://en.wikipedia.org/wiki/Communication)
+- [Oberon](http://people.inf.ethz.ch/wirth/Oberon/index.html)
+- [Wirth's Law](https://en.wikipedia.org/wiki/Wirth%27s_law)
+- [The School of Wirth - The Art of Simplicity](https://books.google.at/books/about/The_School_of_Niklaus_Wirth.html?id=6kHs4s-79bkC&redir_esc=y)
+
+### Donald E. Knuth (TeX)
+
+[Donald E. Knuth Wiki](https://en.wikipedia.org/wiki/Donald_Knuth)
+
+### Edsger W. Dijkstra
+
+### Gerald J. Sussman (Lisp)
+
+[We Really Don't Know Hoe to Compute](https://www.infoq.com/presentations/We-Really-Dont-Know-How-To-Compute)
+
+### Douglas Crockford (JavaScript)
+
+### Tony Hoare
+
+### Prof. Maurer
+
+
+
+

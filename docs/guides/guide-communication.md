@@ -1,11 +1,13 @@
 ## Communication
 
-### Introdution
+### Introduction
+
+see https://en.wikipedia.org/wiki/Communication
 
 Today we communicate through our source code with other developers.
 
-We does not write big documentation. 
-We does not even write a short method or class descriptions.
+We do not write big documentation. 
+We do not even write a short method or class descriptions.
 
 ### Problem
 
