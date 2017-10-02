@@ -4,7 +4,7 @@
 
 Using the right pattern are very important. 
 
-- MVP, MVC
+- MVP, MVC, Presenter First
 - Command
 - Observer
 - Composite

@@ -14,6 +14,7 @@ pages:
     - 'Building stone'  : 'guides/guide-building-stones.md'
     - 'By Example'      : 'guides/guide-byexample.md'
     - 'Communication'   : 'guides/guide-communication.md'
+    - 'Healthyness'     : 'guides/guide-healthyness.md'
   
   - 'About': 'about.md'
   

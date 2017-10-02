@@ -44,19 +44,30 @@ see https://en.wikipedia.org/wiki/Communication#Models
 - [Wirth's Law](https://en.wikipedia.org/wiki/Wirth%27s_law)
 - [The School of Wirth - The Art of Simplicity](https://books.google.at/books/about/The_School_of_Niklaus_Wirth.html?id=6kHs4s-79bkC&redir_esc=y)
 
-### Donald E. Knuth (TeX)
+### Donald E. Knuth (TAOCP, TeX, MMIX, ...)
 
 [Donald E. Knuth Wiki](https://en.wikipedia.org/wiki/Donald_Knuth)
 
 ### Edsger W. Dijkstra
 
+- [Dijkstra in Haskell and Java](http://chrisdone.com/posts/dijkstra-haskell-java)
+- [Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
+
 ### Gerald J. Sussman (Lisp)
 
 [We Really Don't Know Hoe to Compute](https://www.infoq.com/presentations/We-Really-Dont-Know-How-To-Compute)
 
+[Scheme Programming Language](https://en.wikipedia.org/wiki/Scheme_(programming_language))
+
 ### Douglas Crockford (JavaScript)
 
+[The World's Most Misunderstood Programming Language Has Become the World's Most Popular](http://javascript.crockford.com/popular.html)
+
+Programming Language
+
 ### Tony Hoare
+
+[Null References: The Billion Dollar Mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare)
 
 ### Prof. Maurer
 
