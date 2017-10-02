@@ -2,6 +2,12 @@
 
 ## A code clean company
 
+Your attitude is a decision.
+
+Decide to stay clean.
+
+And then learn how to manage, code, design CLEAN!!
+
 | action | clean |
 |-------:|-------|
 | code   | clean |

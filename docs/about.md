@@ -4,7 +4,12 @@
 
 foo bar biz.
 
-## I was influced by
+## I was influced by Languages
+
+Pascal, C, C++, C#, Java,
+Lisp, Arc, Haskell, Python
+
+## I was influced by Persons
 
 I think we are always influced by other persons.
 
@@ -29,13 +34,19 @@ see https://en.wikipedia.org/wiki/Communication#Models
 
 ### Alan Kay (Usability)
 
+- [On Learning](https://www.youtube.com/watch?v=50L44hEtVos)
+
 ### Gerald M. Weinberg
 
 - [Psychology of Computer Programming](http://www.geraldmweinberg.com/Site/Programming_Psychology.html)
 
 ### Paul Graham (Lisp, Language)
 
+- [Roots of Lisp](http://www.paulgraham.com/rootsoflisp.html)
+- [Design Philosophy](http://www.paulgraham.com/design.html)
+- [￼Why Arc isn't especially object orientated](http://www.paulgraham.com/noop.html)
 - [Lisp](http://www.paulgraham.com/lisp.html)
+- [What made Lisp different](http://www.paulgraham.com/diff.html)
 
 ### Niklas Wirth (Operation System, Language)
 
@@ -46,7 +57,9 @@ see https://en.wikipedia.org/wiki/Communication#Models
 
 ### Donald E. Knuth (TAOCP, TeX, MMIX, ...)
 
-[Donald E. Knuth Wiki](https://en.wikipedia.org/wiki/Donald_Knuth)
+- [Donald E. Knuth Wiki](https://en.wikipedia.org/wiki/Donald_Knuth)
+- [My advice to young people](https://www.youtube.com/watch?v=75Ju0eM5T2c)
+- [Literate Programming](http://www.literateprogramming.com)
 
 ### Edsger W. Dijkstra
 
@@ -55,13 +68,13 @@ see https://en.wikipedia.org/wiki/Communication#Models
 
 ### Gerald J. Sussman (Lisp)
 
-[We Really Don't Know Hoe to Compute](https://www.infoq.com/presentations/We-Really-Dont-Know-How-To-Compute)
-
-[Scheme Programming Language](https://en.wikipedia.org/wiki/Scheme_(programming_language))
+- [We Really Don't Know How to Compute](https://www.infoq.com/presentations/We-Really-Dont-Know-How-To-Compute)
+- [The Art of the Propagator](https://vimeo.com/12184930)
+- [Scheme Programming Language](https://en.wikipedia.org/wiki/Scheme_(programming_language))
 
 ### Douglas Crockford (JavaScript)
 
-[The World's Most Misunderstood Programming Language Has Become the World's Most Popular](http://javascript.crockford.com/popular.html)
+- [The World's Most Misunderstood Programming Language Has Become the World's Most Popular](http://javascript.crockford.com/popular.html)
 
 Programming Language
 
